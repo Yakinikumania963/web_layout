@@ -1,4 +1,10 @@
 .item {
     font-size: 18px;
-    background-color: #a0e0c0;
+    background-color: #eeff00;
+    display: table-cell;
+
+}
+.kekka{
+    color: #ff0000;
+    background-color:#eeff00
 }
